@@ -1,0 +1,5 @@
+input:
+  batch_size: 64
+
+output:
+  path: outputs/ethics

@@ -1,0 +1,11 @@
+easydict
+polars
+pyyaml
+torchmetrics
+transformers
+Pillow
+tqdm
+icrawler
+six
+bs4
+lxml
